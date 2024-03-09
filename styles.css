@@ -1,0 +1,38 @@
+body{
+    background-color: blue;
+}
+#hero-section{
+    height: 58vh;
+    border: 1px solid black;
+    display: flex;
+}
+.sec1{
+    width: 50%;
+    height: 60%;
+}
+#fname{
+    font-size: 450%;
+}
+
+#name{
+    text-align: center;
+}
+#image{
+    width: 75%;
+    height: 100%;
+}
+#About me{
+    text-align: center;
+    margin: 20%;
+    padding: 1%;
+}
+#contact me{
+    margin: auto;
+}
+form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 2%;
+    border-radius: 3% 3%;
+}
